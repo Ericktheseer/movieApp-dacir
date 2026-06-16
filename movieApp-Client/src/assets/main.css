@@ -1,0 +1,18 @@
+body {
+  background-color: #f8fafc;
+}
+
+.movie-card {
+  border-radius: 16px;
+  transition: 0.2s ease;
+}
+
+.movie-card:hover {
+  transform: translateY(-4px);
+}
+
+.form-control,
+.btn,
+.card {
+  border-radius: 12px;
+}
